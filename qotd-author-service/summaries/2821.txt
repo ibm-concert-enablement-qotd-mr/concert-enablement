@@ -1,0 +1,1 @@
+Alan Jay Perlis (April 1, 1922 – February 7, 1990) was an American computer scientist and professor at Purdue University, Carnegie Mellon University and Yale University. He is best known for his pioneering work in programming languages and was the first recipient of the Turing Award.
